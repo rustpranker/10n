@@ -21,7 +21,6 @@
 ## Language</br>
 
 ## Menu
-![karma](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
 
 ## Methods
 
@@ -78,4 +77,5 @@ Use DDoS Panel   : python3 main.py
 Use command line : python3 main.py <method> <target> <thread> <time>
       └──────────> python3 main.py cfb https://example.com 100 30
 ```
+
 
